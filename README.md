@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Sergio
 
 🎓 Software Developer | 💻 Full Stack Enthusiast | 🚀 Always Learning
 
