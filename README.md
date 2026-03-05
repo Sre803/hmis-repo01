@@ -71,12 +71,4 @@ Tooljet-based interface that allows users to select food quantities and add item
 
 ---
 
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your.email@example.com
-
----
-
 ⭐ Feel free to check out my repositories and connect!
